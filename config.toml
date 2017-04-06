@@ -1,4 +1,4 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Town Crier: an Authenticated Data Feeds for Smart Contracts"
 publishdir = "dist"

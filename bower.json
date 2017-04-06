@@ -10,7 +10,8 @@
     "tests"
   ],
   "dependencies": {
-    "semantic": "semantic-ui#~2.0.8",
-    "waypoints": "jquery-waypoints#~4.0.0"
+    "semantic": null,
+    "waypoints": null,
+    "slick": null
   }
 }
